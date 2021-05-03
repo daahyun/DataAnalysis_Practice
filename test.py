@@ -10,5 +10,6 @@ plt.xlabel('Date')
 plt.ylabel('Stress level')
 plt.show()
 
+#실제 E4데이터 모으기
 #시계열 데이터 추출
 #두개 선 그래프 그리기
